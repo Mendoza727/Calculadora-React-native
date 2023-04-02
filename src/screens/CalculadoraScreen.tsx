@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React from 'react';
 import { View, Text } from 'react-native';
 import { styles } from '../theme/AppTheme';
 import { BtnCalculadoraComponet } from '../components/BtnCalculadoraComponet';
